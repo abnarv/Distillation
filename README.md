@@ -8,3 +8,5 @@ Parameters such as reflux ratio, number of trays, feed tray location influence t
   at x≈0.894)
 - **Bubble Point Solver**: Newton-Raphson iterative solver for 
   vapor-liquid equilibrium temperature/composition
+## Tech Stack
+Python · NumPy · SciPy · Pandas · Matplotlib
